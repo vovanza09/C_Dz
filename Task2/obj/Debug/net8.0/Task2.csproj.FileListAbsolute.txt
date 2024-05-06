@@ -1,0 +1,14 @@
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/bin/Debug/net8.0/Task2
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/bin/Debug/net8.0/Task2.deps.json
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/bin/Debug/net8.0/Task2.runtimeconfig.json
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/bin/Debug/net8.0/Task2.dll
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/bin/Debug/net8.0/Task2.pdb
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.AssemblyInfoInputs.cache
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.AssemblyInfo.cs
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.csproj.CoreCompileInputs.cache
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.dll
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/refint/Task2.dll
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.pdb
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/Task2.genruntimeconfig.cache
+/Users/vladimircajka/Desktop/Работы/С#_Dz/Task2/obj/Debug/net8.0/ref/Task2.dll
